@@ -1,0 +1,17 @@
+{
+  "name": "AC338",
+  "version": "1.0.0",
+  "description": "Codigo para desenvolvimento de uma pagina web para a disciplina de ac338",
+  "main": "server.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --report spec"
+  },
+  "dependencies": {
+    "body-parser": "~1.18.3",
+    "express": "~4.16.3",
+    "mongoose": "*",
+    "request": "~2.88.0"
+  },
+  "author": "Leonardo_&_Tulio",
+  "license": "ISC"
+}
